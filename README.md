@@ -79,17 +79,6 @@ Bidders can submit and reveal bids using wallet-connected frontends.
 - Persistent storage for tenders, bids, and counters
 - On-chain event system for transparency
 
-# Backend (Optional Extension):
-- Node.js + Express API for interacting with Stellar RPC
-- IPFS integration for document uploads
-- MongoDB for off-chain metadata indexing
-
-# Frontend (Optional Extension):
-- React or Vanilla JS interface for:
-- Tender creation
-- Bid commit and reveal
-- Viewing results and history
-- Wallet integration using Freighter
 
 # Contract Details
 
