@@ -93,7 +93,7 @@ Bidders can submit and reveal bids using wallet-connected frontends.
 
 # Contract Details
 
-- Contract ID: CAZHUQLGIASLSB6YLVTLSMVLL4624DVEYVRUMNTB42K74TWTWR5FSMRY
+- Contract ID: CD5JXQDVQJK2ZHYX7U76I45N2DKKFMVCA6WJ6ZQHO2EL6WJV2VAD6GP4
 - Network: Testnet
 - Language: Rust (Soroban)
 
